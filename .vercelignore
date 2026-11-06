@@ -1,0 +1,12 @@
+# Only the public site is uploaded to Vercel. Docs, notes and tooling never become public URLs.
+README.md
+docs/
+*.md
+*.map
+*.log
+*.bak
+*.zip
+.env*
+.git*
+.DS_Store
+node_modules/
